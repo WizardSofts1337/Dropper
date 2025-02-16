@@ -1,4 +1,4 @@
-# 🌟 Название Репозитория
+# 🌟 X-Dropper
 
 Добро пожаловать в мой репозиторий! Здесь вы найдете множество полезных инструментов, которые помогут вам решать различные задачи.
 
@@ -6,8 +6,6 @@
   <!-- картинка-блок -->
 
 ## 🚀 Описание
-
-[![Превью видео](****)](https://streamable.com/7sfmq9)
 
 Dropper - malware delivery software which helps your crypts live longer, bypass chrome and windows smart screen allerts, 
 also dropper safetly start one ore more software which helps you to be like a legit program.
@@ -17,6 +15,8 @@ also dropper safetly start one ore more software which helps you to be like a le
 - 💡 VM and AntiDebug settings
 
 ## 📂 Installation
+
+<img src="https://ibb.co/PzMyBH49" alt="Описание изображения" width="600" height="300" />
 
 1. Клонируйте репозиторий:
    ```bash

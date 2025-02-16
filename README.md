@@ -7,7 +7,7 @@
 
 ## 🚀 Описание
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYng1djBhdzh4NWw1cTlhdGV3dHZxYXNrdDFmOTNhMnE4ZjBmZmtmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I9avBm6jMvZaFqqr1d/giphy.gif" alt="Описание изображения" width="600" height="300" />
+<img src="https://streamable.com/7sfmq9" alt="Описание изображения" width="600" height="300" />
   <!-- картинка-блок -->
 
 Dropper - malware delivery software which helps your crypts live longer, bypass chrome and windows smart screen allerts, 

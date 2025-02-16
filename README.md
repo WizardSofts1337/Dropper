@@ -8,7 +8,7 @@
 ## 🚀 Описание
 
 <video width="640" height="360" controls>
-  <source src="dropper.mp4" type="video/mp4">
+  <source src="(https://streamable.com/7sfmq9)" type="video/mp4">
   Ваш браузер не поддерживает тег video.
 </video>
 

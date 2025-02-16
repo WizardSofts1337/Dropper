@@ -16,7 +16,7 @@ also dropper safetly start one ore more software which helps you to be like a le
 
 ## 📂 Installation
 
-<img src="https://ibb.co/PzMyBH49" alt="Описание изображения" width="600" height="300" />
+<img src="https://i.ibb.co/k6JTYC09/Screenshot-3-Photoroom.jpg" alt="Описание изображения" width="600" height="300" />
 
 1. Клонируйте репозиторий:
    ```bash

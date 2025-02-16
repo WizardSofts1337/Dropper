@@ -7,13 +7,17 @@
 
 ## 🚀 Описание
 
-Этот проект предоставляет решение для задачи X с использованием Y технологий. Это идеальное решение для Z, потому что оно:
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYng1djBhdzh4NWw1cTlhdGV3dHZxYXNrdDFmOTNhMnE4ZjBmZmtmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I9avBm6jMvZaFqqr1d/giphy.gif" alt="Описание изображения" width="600" height="300" />
+  <!-- картинка-блок -->
 
-- 🚀 Быстрое и надежное
-- ⚡ Легкое в интеграции
-- 💡 Отлично документированное
+Dropper - malware delivery software which helps your crypts live longer, bypass chrome and windows smart screen allerts, 
+also dropper safetly start one ore more software which helps you to be like a legit program.
 
-## 📂 Установка
+- 🚀 Fast and Safety
+- ⚡ Light and very quick
+- 💡 VM and AntiDebug settings
+
+## 📂 Installation
 
 1. Клонируйте репозиторий:
    ```bash

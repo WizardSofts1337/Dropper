@@ -24,7 +24,7 @@ After purshase we provide
 
 - 📥 Our dropper send launch notifications to your telegram channel
 
-<img src="https://i.ibb.co/0VY8cvDf/Screenshot-2-Photoroom.jpg" alt="Описание изображения" width="400" height="300" />
+<img src="https://i.ibb.co/0VY8cvDf/Screenshot-2-Photoroom.jpg" alt="Описание изображения" width="500" height="300" />
 
 1. Клонируйте репозиторий:
    ```bash

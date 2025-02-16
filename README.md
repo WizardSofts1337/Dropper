@@ -28,7 +28,4 @@ After purchase, we provide:
 
 ## 🧙‍♂️ Telegram for purchase:
    ```bash
-   @Wizard_Admin_1
-
-```bash
-   @Wizard_Admin_1
+   @Wizard_Admin_1 

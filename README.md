@@ -28,4 +28,7 @@ After purchase, we provide:
 
 ## 🧙‍♂️ Telegram for purchase:
    ```bash
-   git clone @Wizard_Admin_1
+   @Wizard_Admin_1
+
+```bash
+   @Wizard_Admin_1

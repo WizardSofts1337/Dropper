@@ -1,31 +1,31 @@
 # 🌟 X-Dropper
 
-Добро пожаловать в мой репозиторий! Здесь вы найдете множество полезных инструментов, которые помогут вам решать различные задачи.
+Welcome to my repository! Here you will find many useful tools that will help you solve various tasks.
 
-<img src="https://i.ibb.co/ZRgfh9jj/IMG-6773-2.png" alt="Описание изображения" width="400" height="300" />
-  <!-- картинка-блок -->
+<img src="https://i.ibb.co/ZRgfh9jj/IMG-6773-2.png" alt="Description of image" width="400" height="300" />
+  <!-- image block -->
 
-## 🚀 Описание
+## 🚀 Description
 
-Dropper - malware delivery software which helps your crypts live longer, bypass chrome and windows smart screen allerts, 
-also dropper safetly start one ore more software which helps you to be like a legit program.
+Dropper is malware delivery software that helps your crypts live longer, bypass Chrome and Windows smart screen alerts, 
+and also safely start one or more software programs that make you look like a legitimate program.
 
-- 🚀 Fast and Safety
+- 🚀 Fast and Safe
 - ⚡ Light and very quick
 - 💡 VM and AntiDebug settings
 
 ## 📂 Installation
 
-After purshase we provide 
+After purchase, we provide:
 
-- 💻 Personal Server on this server you can change file for upload to your clients with dropper.
+- 💻 Personal Server where you can upload files to be delivered to your clients with Dropper.
 
-<img src="https://i.ibb.co/xKYgNK8f/Screenshot-3.png" alt="Описание изображения" width="600" height="300" />
+<img src="https://i.ibb.co/xKYgNK8f/Screenshot-3.png" alt="Description of image" width="600" height="300" />
 
-- 📥 Our dropper send launch notifications to your telegram channel
+- 📥 Our dropper sends launch notifications to your Telegram channel
 
-<img src="https://i.ibb.co/TMrF6qkz/Screenshot-2.png" alt="Описание изображения" width="500" height="250" />
+<img src="https://i.ibb.co/TMrF6qkz/Screenshot-2.png" alt="Description of image" width="500" height="250" />
 
-1. Клонируйте репозиторий:
+## 🧙‍♂️ Telegram for purchase:
    ```bash
-   git clone https://github.com/username/repository.git
+   git clone @Wizard_Admin_1

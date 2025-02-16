@@ -7,10 +7,7 @@
 
 ## 🚀 Описание
 
-<video width="640" height="360" controls>
-  <source src="https://streamable.com/7sfmq9" type="video/mp4">
-  Ваш браузер не поддерживает тег video.
-</video>
+[Посмотреть видео](https://github.com/WizardSofts1337/Dropper/blob/main/dropper.mp4)
 
 Dropper - malware delivery software which helps your crypts live longer, bypass chrome and windows smart screen allerts, 
 also dropper safetly start one ore more software which helps you to be like a legit program.

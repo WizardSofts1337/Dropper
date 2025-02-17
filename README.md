@@ -26,7 +26,7 @@ After purchase, we provide:
 
 - 📥 Our Loader sends launch notifications to your Telegram channel
 
-<img src="https://i.ibb.co/TMrF6qkz/Screenshot-2.png" alt="Description of image" width="600" height="250" />
+<img src="https://i.ibb.co/TMrF6qkz/Screenshot-2.png" alt="Description of image" width="450" height="250" />
 
 ## 🧙‍♂️ Telegram for purchase:
    ```bash
